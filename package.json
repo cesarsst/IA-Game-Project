@@ -1,0 +1,13 @@
+{
+  "name": "Game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cesar Soares Stenico",
+  "license": "MIT",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
